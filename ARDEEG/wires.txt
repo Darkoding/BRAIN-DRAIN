@@ -1,1 +1,4 @@
-PySerial library 
+PySerial library
+poligrafo
+osciloscopio 
+arduino. nano ard
