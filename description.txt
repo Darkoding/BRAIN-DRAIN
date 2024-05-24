@@ -1,6 +1,3 @@
 I started this repository to save my first project at bioinformatics, if you want to collaborate dm me :)
   this project basically starts with and interjection of functional programming, clusters, graphs theory and python language. I´m writing this at 28/02/2024 so if you see any insconsistency with this description you may apologyze me because this is the beginning.
-    The project consists in creating a platform that help mental health professionals to optimize the threatment of mental health issues in young college students; to develop this I decided to start with a data base that focus on brain physiology, syntomps, adversal effects and general characteristics of the young pacient. 
-    To resume: This project can help to optimize and personalize medication 
-
-
+    
