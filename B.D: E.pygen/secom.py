@@ -1,5 +1,3 @@
-#primera funcionn definida. aplicaciones de conocimiento basico de variables.
-#secuencia de Panthera onca 
 def obtener_complemento(dna):
     complemento = {
        'A': 'T',
